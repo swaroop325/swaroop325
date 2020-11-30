@@ -14,7 +14,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swaroop-a-s-7ab296b8/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![swaroop's github stats](https://github-readme-stats.vercel.app/api?username=swaroop325&count_private=true&show_icons=true&theme=dark)
 
