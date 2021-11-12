@@ -5,7 +5,7 @@
 ## About Me 🤷🏻‍♂️
 
 * 📱 Mobile App Developer
-* 🌈 Frontend Developer
+* 😇 Frontend Developer
 * 🖌 Tech Enthusiast
 * 💡 Loves innovation and new technologies
 
