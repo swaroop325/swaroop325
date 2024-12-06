@@ -1,6 +1,6 @@
 ### Hi, I'm Swaroop <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-# A Passionate Software Engineer from India 🇸🇬 residing in Singapore 🇸🇬
+# A Passionate Software Engineer from India 🇮🇳 residing in Singapore 🇸🇬
 
 ## About Me 🤷🏻‍♂️
 
